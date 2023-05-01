@@ -11,15 +11,13 @@ Welcome to my profile! I'm Pedro Duarte, an SRE with almost 20 years of experien
 <br>Currently more focused on, among others:
 
 <div style="display": inline">
-  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />        
-  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />
-  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
+  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;
+  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />&nbsp;
+  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />&nbsp;
+  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
   <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
                                                                                                                       
 ---------
-<br>
-You can find me at:<br>
-<a href="https://www.linkedin.com/in/duarpadev" target="_blank"><img width="100" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+You can find me at:<br><a href="https://www.linkedin.com/in/duarpadev" target="_blank"><img width="80" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
