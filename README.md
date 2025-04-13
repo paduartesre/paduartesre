@@ -14,8 +14,9 @@ Bem-vindo ao meu perfil! Eu sou Pedro Duarte, um SRE com quase 20 anos de experi
   <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;
   <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />&nbsp;
   <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />&nbsp;
-  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
-  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp;
+  <img width="50" weight="50" src="https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png?f=webp&w=256" />&nbsp;
+  <img width="50" weight="50" src="https://avatars.githubusercontent.com/u/54465427?v=4?s=400" alt="GitHub Actions - Pipelines" />
 </div>
                                                                                                                       
 ---------
