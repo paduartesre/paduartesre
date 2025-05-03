@@ -22,4 +22,5 @@ Bem-vindo ao meu perfil! Eu sou Pedro Duarte, um profissional de TI com quase 20
 </div>
                                                                                                                       
 ---------
-Conecte comigo em:<br><a href="https://www.linkedin.com/in/duarpadevops2" target="_blank"><img width="80" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+<b>Linkedin Conta Principal:</b><br><a href="https://www.linkedin.com/in/duarpadevops" target="_blank"><img width="80" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a><br>
+Linkedin Conta Reserva:<br><a href="https://www.linkedin.com/in/duarpadevops2" target="_blank"><img width="80" weight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
