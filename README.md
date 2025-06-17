@@ -1,10 +1,10 @@
 ### Olá, meu nome é Pedro Duarte 👋
 
-Bem-vindo ao meu perfil! Eu sou Pedro Duarte, um profissional de TI com quase 20 anos de experiência. Estou sempre aprimorando meu trabalho com foco em resolver problemas complexos de infraestrutura e garantir a disponibilidade de serviços críticos. Sou apaixonado por inovação e comprometido com a excelência, o que me torna um colaborador valioso em qualquer equipe de TI.
+Bem-vindo ao meu perfil! Eu sou Pedro Duarte, um profissional de TI com mais de 20 anos de experiência. Estou sempre aprimorando meu trabalho com foco em resolver problemas complexos de infraestrutura e garantir a disponibilidade de serviços críticos. Sou apaixonado por inovação e comprometido com a excelência, o que me torna um colaborador valioso em qualquer equipe de TI.
 
 <b>As soluções fornecidas neste portfolio visam sempre atender automações com maior nível de complexidade, portanto, exige um certo nível de maturidade técnica para compreender as automações existentes. Aqui é apenas um portólio para compartilhamento de conhecimento. Qualquer dúvida meus dados de contato estão presentes aqui para maiores dúvidas ou me chame no Linkedin.</b><br><br>
 
-- 👨🏻‍💻 **Profissional de TI - SRE - Analista DevOps Sênior**
+- 👨🏻‍💻 **Profissional de TI - Platform Engineer**
 - 💿 Sou um profissional experiente em automatizar processos e ferramentas! Como profissional de TI, essa é uma das minhas principais habilidades. Automatizar tarefas rotineiras não só economiza tempo, como também ajuda a reduzir erros e aumentar a eficiência. Para mim, não há nada mais gratificante do que ver sistemas funcionando perfeitamente, graças à automação.
 - 💾 Acredito firmemente que praticar a escuta ativa, a empatia e a comunicação direta com os colegas traz mais qualidade para as relações no ambiente de trabalho, destacando a importância do crescimento individual dentro da equipe.
 - 🎙️  Um dos meus hobbies favoritos é assistir a diversos podcasts sobre uma variedade de assuntos, gosto de praticar esportes radicais, pôquer, xadrez e musculação.
